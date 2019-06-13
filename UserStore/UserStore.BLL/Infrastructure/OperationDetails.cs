@@ -11,7 +11,5 @@
         public bool Succedeed { get; private set; }
         public string Message { get; private set; }
         public string Property { get; private set; }
-
-        public string Change { get; private set; }
     }
 }
